@@ -1,16 +1,8 @@
 {
   "task": [
     {
-      "id": 18,
-      "note": "SeatCode"
-    },
-    {
       "id": 19,
       "note": "Learn React"
-    },
-    {
-      "id": 20,
-      "note": "technical assessment"
     }
   ]
 }
